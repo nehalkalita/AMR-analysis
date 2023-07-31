@@ -1,6 +1,5 @@
 import csv
 import math
-import matplotlib.pyplot as plt
 
 def extract_data():
     file_open = open('India modified1.csv', 'r')
