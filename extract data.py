@@ -52,4 +52,4 @@ def extract_data():
 
     return
 
-extract_data
+extract_data()
